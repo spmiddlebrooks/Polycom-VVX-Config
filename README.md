@@ -1,2 +1,2 @@
-# VVX-Config
+# Polycom-VVX-Config
 Polycom VVX Configuration
